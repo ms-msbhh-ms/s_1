@@ -1,0 +1,3 @@
+const link = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbFYwUEhzZkpRcHo2a1hobzB2M2x3QTF3ZWJvQXxBQ3Jtc0tsNDVJV2lLZjNXS0RzU285dmNzQWs0VnFpTnAzSGh4b0RvVFlFdE1kRjdpcFVBX3hCRDZjdTlCOE1IMEJtQUZ1UXFLbF9GX2xzOEoybExtT01QUF9WNE1pa3k0WTkxdElBX3RvVEZBOW04SGphYWx5VQ&q=https%3A%2F%2Ffacc.com%2F&html_redirect=1"
+
+module.exports = link
